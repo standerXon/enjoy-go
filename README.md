@@ -1,2 +1,2 @@
 # enjoy-go
-go practice
+🤞GO学长好，我是瓦学弟🤞
