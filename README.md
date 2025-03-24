@@ -1,0 +1,2 @@
+# enjoy-go
+go practice
